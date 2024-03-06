@@ -1,0 +1,11 @@
+E:\VisStud\dz\Hw1\StringLibrary\bin\Debug\net7.0\StringLibrary.deps.json
+E:\VisStud\dz\Hw1\StringLibrary\bin\Debug\net7.0\StringLibrary.dll
+E:\VisStud\dz\Hw1\StringLibrary\bin\Debug\net7.0\StringLibrary.pdb
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfoInputs.cache
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\StringLibrary.AssemblyInfo.cs
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\StringLibrary.csproj.CoreCompileInputs.cache
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\StringLibrary.dll
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\refint\StringLibrary.dll
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\StringLibrary.pdb
+E:\VisStud\dz\Hw1\StringLibrary\obj\Debug\net7.0\ref\StringLibrary.dll
